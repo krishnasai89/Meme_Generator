@@ -1,0 +1,43 @@
+.meme-generator {
+    text-align: center;
+    margin: 20px;
+}
+
+.meme {
+    position: relative;
+    display: inline-block;
+}
+
+.meme img {
+    max-width: 100%;
+    height: auto;
+}
+
+.top-text, .bottom-text {
+    position: absolute;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+}
+
+.top-text {
+    top: 10px;
+}
+
+.bottom-text {
+    bottom: 10px;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+}
