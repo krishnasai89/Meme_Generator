@@ -2,7 +2,7 @@
 1.Clone the repository:
 ```cmd
 git clone https://github.com/krishnasai89/Meme_Generator.git
-cd jokegenerator
+cd Meme_generator
 ```
 2.Install the dependencies:
 ```cmd
